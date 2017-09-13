@@ -3,7 +3,7 @@ Computationnal Physics Homework
 
 ## List
 
-- [x] [第一次作业]()
+- [x] [第一次作业](https://github.com/matrixk/computational_physics_201530020032/blob/master/README.md)
 - [ ] [第二次作业]()
 
 
