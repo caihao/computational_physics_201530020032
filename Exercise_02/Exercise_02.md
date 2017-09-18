@@ -1,3 +1,5 @@
+# 囧，我是一个说明文档，作业文件请看我的[同名文件](https://github.com/matrixk/computational_physics_201530020032/edit/master/Exercise_02/Exercise_02.py)……
+
 # 第二次作业
 
 - 自己用How to think like a computer scientist – Learning with Python: Interactive Edition 2.0进行python语法练习
